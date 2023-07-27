@@ -1,0 +1,34 @@
+/* NavigationBar.module.css */
+
+.navBar {
+    /* Styles for the navigation bar */
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .navBar ul {
+    /* Styles for the unordered list */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navBar li {
+    /* Styles for the list items */
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .navBar li:last-child {
+    margin-right: 0;
+  }
+  
+  .navBar a {
+    /* Styles for the navigation links */
+    text-decoration: none;
+    color: #333;
+    padding: 5px 10px;
+  }
+  
+  /* Add more CSS styles as needed */
+  
